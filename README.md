@@ -1,4 +1,4 @@
-# Getting Started with Create React App PR test
+# Getting Started with Create React App for PR test
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
